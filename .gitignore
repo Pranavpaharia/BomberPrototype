@@ -2,3 +2,5 @@
 /.vs/
 *.sln
 *.VC.db
+/Binaries/
+*.VC.VC.opendb
