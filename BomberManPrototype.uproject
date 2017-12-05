@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{DEDD2EDF-49A5-FD80-27B0-189B1FA3912D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BomberManPrototype",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
